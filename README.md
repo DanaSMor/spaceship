@@ -1,5 +1,5 @@
 # SpaceShip
-<h2>SpaceShip game based on Erel Segal projct</h2>
+<h2>SpaceShip game based on Erel Segal's projct</h2>
 
 New fatures added:
 
