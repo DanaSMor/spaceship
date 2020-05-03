@@ -3,5 +3,5 @@
 
 New fatures added:
 
--3 hit points to the spaceship before gameover
--automate restart of the game after dying
+*3 hit points to the spaceship before gameover
+*automate restart of the game after dying
