@@ -8,4 +8,4 @@ New fatures added:
 *automate restart of the game after dying
 
 As we can see in the picture, each player srats with 3 lives to spend:
-<img src="./begin.jpg" width="350" height="300">
+<img src="begin.JPG" width="350" height="300">
