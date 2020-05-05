@@ -1,6 +1,9 @@
-# SpaceShip
+SpaceShip
+=========
+
 SpaceShip game based on Erel Segal's projct
 --------
+
 New fatures added:
 --------
 
@@ -14,4 +17,6 @@ As we can see in the picture, each player srats with 3 lives to spend:
 
 And after each hit, one live is gone:
 
-<img src="strike1.JPG" width="350" height="300">v
+<img src="strike1.JPG" width="350" height="300">
+
+*all the rellevant changes are in "DestroyOnTrigger2D" script
